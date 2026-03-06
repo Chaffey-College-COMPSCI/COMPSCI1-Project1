@@ -6,7 +6,7 @@ double gas_cost(double miles, double mpg, double gas_price) {
 }
 
 double total_trip_cost(double gas, double food, double hotel) {
-    // TODO: calculate total cost 
+    // TODO: calculate total cost of gas food and hotel
 }
 
 int main() {
